@@ -1,0 +1,7 @@
+{
+  "name": "refactor-examples",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node sales_refactored.js"
+  }
+}
