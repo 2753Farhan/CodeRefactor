@@ -23,11 +23,3 @@ Run tests (PowerShell):
 cd d:\Code_Refactor
 pwsh .\tests\run_all.ps1
 ```
-
-Convert the included `report.md` into a PDF to submit to your instructor. If Pandoc is installed, use:
-
-```powershell
-pwsh .\tools\convert_to_pdf.ps1 -input report.md -output submit/report.pdf
-```
-
-Alternatively, open `report.md` in VS Code and use the Markdown: Open Preview then export to PDF.
